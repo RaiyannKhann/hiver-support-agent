@@ -1,0 +1,7 @@
+# Everything the pipeline imports. `make eval-cached` only needs the first three;
+# sentence-transformers (and the torch it pulls in) is for the live path and the prep scripts.
+pandas==3.0.5
+numpy==2.5.3
+scikit-learn==1.9.0
+sentence-transformers==6.0.1
+anthropic==1.5.0

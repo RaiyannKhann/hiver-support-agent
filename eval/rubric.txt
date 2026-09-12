@@ -1,0 +1,6 @@
+1. addresses_message: Does the reply respond to the specific thing this customer wrote, rather than being boilerplate that could answer any tweet?
+2. no_fabrication: Does the reply avoid asserting anything it cannot know from the tweet: flight status, policy specifics, prices, compensation, timelines, or what the customer 'will' receive?
+3. right_next_step: Does the reply leave the customer knowing what happens next: it answers the question, or names exactly what to send and where, or, when the tweet needs no action, acknowledges it so nothing is left hanging?
+4. matches_decision: Given the correct handling shown: for ESCALATE, does it hand off without promising an outcome; for AUTO, does it resolve publicly without pushing to DM?
+5. tone: Is it polite, warm and professional, with no sarcasm, blame or defensiveness, and fit to post publicly as British Airways?
+6. consistent_with_reference: Only when a reference reply is shown: is the draft's substance consistent with it, same resolution direction and no contradiction? Answer n/a when there is no reference.
